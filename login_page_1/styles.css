@@ -64,6 +64,7 @@ i{
     color: white;
     font-family: Comic Sans MS;
     background-color: black;
+    cursor: pointer;
 }
 #forgotPW{
     position: relative;
